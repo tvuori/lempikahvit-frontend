@@ -1,6 +1,6 @@
 # Lempikahvit - frontend
 
-Kyseessä on frontend web-sovellukselle, jossa voi tallentaa tiedot lempikahvilaaduistaan. 
+Kyseessä on frontend (React/TypeScript) web-sovellukselle, jossa voi tallentaa tiedot lempikahvilaaduistaan. 
 
 Käyttää oletuksena porttia 3000 ja olettaa [backendin](https://github.com/tvuori/lempikahvit-backend) palvelimen olevan käynnissä portissa 3001.
 
